@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/maksimAlyonaOlga/static/css/main.c3d5249d.css",
-    "main.js": "/maksimAlyonaOlga/static/js/main.b2590723.js",
+    "main.js": "/maksimAlyonaOlga/static/js/main.577db63a.js",
     "index.html": "/maksimAlyonaOlga/index.html",
     "main.c3d5249d.css.map": "/maksimAlyonaOlga/static/css/main.c3d5249d.css.map",
-    "main.b2590723.js.map": "/maksimAlyonaOlga/static/js/main.b2590723.js.map"
+    "main.577db63a.js.map": "/maksimAlyonaOlga/static/js/main.577db63a.js.map"
   },
   "entrypoints": [
     "static/css/main.c3d5249d.css",
-    "static/js/main.b2590723.js"
+    "static/js/main.577db63a.js"
   ]
 }
